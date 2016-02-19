@@ -2,7 +2,7 @@
 selfssl.sh is a shell one-liner to generate self-signed SSL certificate. The sole purpose of this is to forget the openssl syntax.
 
 ##Usage
-Just grap the file anywhere and run it:
+Just grab the file anywhere and run it:
 ```
 git clone https://github.com/bobac/selfssl.git
 ./selfssl.sh
